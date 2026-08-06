@@ -19,7 +19,6 @@ The database was designed following relational database principles and includes 
 - PostgreSQL
 - psql
 - SQL
-- DBML (dbdiagram.io)
 
 ---
 
@@ -28,7 +27,6 @@ The database was designed following relational database principles and includes 
 - **queries.sql** – SQL queries for Questions 1–20.
 - **ERD.png** – Entity Relationship Diagram (ERD).
 - **relationship_analysis.pdf** – Relationship analysis and database design documentation.
-- **screenshots/** – Screenshots of the implemented database and sample query results.
 
 ---
 
